@@ -10,20 +10,6 @@ The automation ensures consistency, repeatability, and minimal manual interventi
 
 ---
 
-## Medium Blog (Detailed Explanation)
-
-A detailed step-by-step explanation of this project is published on Medium:
-
-**Medium Article:**  
-https://medium.com/@rajahire326/converting-lemp-stack-to-lamp-stack-using-ansible-on-amazon-linux-da1b5bc0ef76
-
-This article covers:
-- Real-world use case for LEMP to LAMP migration  
-- Ansible automation strategy  
-- Variable-driven playbook design  
-- Execution results and verification  
-
----
 
 ## Initial State: LEMP Stack Installed
 
@@ -148,7 +134,20 @@ Successful verification confirms:
 * MariaDB service is running
 
 ---
+## Medium Blog (Detailed Explanation)
 
+A detailed step-by-step explanation of this project is published on Medium:
+
+**Medium Article:**  
+https://medium.com/@rajahire326/converting-lemp-stack-to-lamp-stack-using-ansible-on-amazon-linux-da1b5bc0ef76
+
+This article covers:
+- Real-world use case for LEMP to LAMP migration  
+- Ansible automation strategy  
+- Variable-driven playbook design  
+- Execution results and verification  
+
+---
 ## Conclusion
 
 Manual server changes do not scale.
@@ -167,6 +166,5 @@ GitHub: [https://github.com/RajAhire-1](https://github.com/RajAhire-1)
 LinkedIn: [https://www.linkedin.com/in/raj-ahire](https://www.linkedin.com/in/raj-ahire)
 Medium: [https://medium.com/@rajahire326](https://medium.com/@rajahire326)
 
-```
 
 
