@@ -163,6 +163,7 @@ This project showcases how Ansible can be used to safely manage infrastructure c
 AWS & DevOps Engineer
 
 LinkedIn: [https://www.linkedin.com/in/raj-ahire](https://www.linkedin.com/in/raj-ahire)
+
 Medium: [https://medium.com/@rajahire326](https://medium.com/@rajahire326)
 
 
